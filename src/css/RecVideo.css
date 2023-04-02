@@ -1,0 +1,15 @@
+.videoContainner{
+    flex:1;
+    margin-right: 20px;
+    background-color: #f9f9f9;
+}
+
+.Recommended_title{
+    margin: 20px 50px 0px 70px;
+}
+.recommendedVideo_videos{
+    margin: 0px 20px 0px 20px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
